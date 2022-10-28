@@ -1,0 +1,163 @@
+# hello
+        <head>
+            <meta charset="utf-8">
+            <title>
+                Cousera
+            </title>
+        </head>
+        <body>
+
+            <!-- <div style="padding: 60px; color: red; background-color: black> -->
+            <nav>
+                <div>
+                    <div class="navbar">
+                        <div class="logo">
+                           <div class="icon"> <h2> LEGEND</h2> </div>
+                        </div>
+                        <div class="menu">
+                            <ul>
+                                <li><a href="file:///C:/Users/living%20legend/Desktop/couserahtml.html"> Home </a></li>
+                                <li><a href="google.com" target=_blank> Discover</a></li>
+                                <li><a href="w3c.com"> Services</a></li>
+                                <li><a href="sololearn.com" target=_blank> Help</a></li>
+                                <li><a>Settings</a></li>
+                              <div class="hello"><li><a href="livinglegend" class="button">Subscribe</a></li></div>
+                            </ul>
+                    </div> 
+                 </div>
+            </nav>
+            <div  class="hommie">
+                THIS IS MY FIRST WEBSITE            
+            </div>
+       
+            
+                 <img src="img\hurt2.jpg"class="img"height="80px" width="80px">
+                 <img src="img/hurt.jpg" class="pic"height="80px" width="80px">
+            
+       
+
+
+           
+
+
+
+            
+<!--body{
+                background-color:black;
+            }-->
+             <style type="text/css">
+                body{
+background-color: black;
+                }
+
+            
+
+            .navbar {
+                width: 1300px;
+                background-color:black;
+                height: 120px;
+                padding-bottom: 10px;
+                cursor: pointer;
+            }
+            .icon{
+                width: 200px;
+                float: left;
+                height:100px;
+                padding-top: 10px;
+                color: red;
+                font-size: 30px;
+                font-family: times new roman;
+                transition: 0.1s ease-in-out;
+                font-weight:bold ;
+
+            }
+            div h2:hover{
+                font-size: 40px;
+                color: white; 
+                background-color: red;
+                border-radius: 20px 30px 30px 20px;              
+            }
+            .menu{
+                width: 40px;
+                float: left;
+                height: 70px;
+            }
+             ul {
+                float: left;
+                display: flex;
+            }
+            ul li{
+                list-style: none;
+                margin:40px;
+                font-size: 28px;
+                padding-top: 30px;
+                color: blue;
+                font-weight: bold
+
+
+            }
+            ul li a{
+                color: blue;
+                font-weight: bold;
+                transition: 0.1s ease-in-out;
+                text-decoration: none;
+            }
+
+            ul li a:hover{
+                color: white;
+                text-decoration-line:underline;
+                 
+            }
+           
+            
+
+            ul div li a{
+                color: blue;
+                font-weight: bold;
+                text-decoration: none;
+                transition: 0.1s ease-in-out;
+            }            
+
+            .button{
+                background-color: red;
+                border-radius: 20px;
+                padding: 10px 10px;
+
+            }
+            .hommie{
+                width: 600px;
+                background-color: blue;
+                color: red;
+                text-align: center;
+                font-weight: bold;
+                font-size:24px;
+                font-family: copper black, gothic, jokerman, san-seriff;
+            }
+
+            .pic{
+                border-radius: 360px;
+                border-style: groove;
+                border-color: red, 20px;
+                float: right;
+
+             }           
+             .img{
+                border-radius: 360px;
+                border-style: groove;
+                border-color: red, 20px;
+                float: right;
+                margin-right: 50px;
+                margin-left: 30px;
+             }           
+
+            
+            img:hover{
+                height: 100px;
+                width:100px;
+            }
+
+          
+
+            </style>
+        </body>
+    </html>
