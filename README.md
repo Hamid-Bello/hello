@@ -2,7 +2,7 @@
         <head>
             <meta charset="utf-8">
             <title>
-                Cousera
+                My First Website
             </title>
         </head>
         <body>
